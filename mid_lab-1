@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Aminur Rahman</title>
+</head>
+<h1>Aminur Rahman</h1>
+<p>I am Aminur Rahman.I am from dhaka.My batch is 19-3.</p>
+<h3>My hobbies are travelling with bike.I almost travel 30+ district in Bangladesh with bike </h3>
+<ol>
+    <li style="color:blue">Cox Bazar</li>
+    <li style="color:red">Sajek</li>
+    <li style="color:green">Bandarban</li>
+    <li style="color:rgb(150,200,250)">Sylhet</li>
+</ol>
+<a href="https:www.facebook.com"><img src="facebook.png" alt="logo"width="50" heigth="25">FACEBOOK</a>
+
+
+</html>
